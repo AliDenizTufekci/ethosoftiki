@@ -3,6 +3,7 @@
 **Ad Soyad:Ali Deniz Tüfekci**
 **Numara:722**
 
+//*Bazı cevaplar, sonuçları anlatan bu raporun daha hızlı okunabilir , sade ve laf kalabalığından uzak olması adına özet olacak şekilde (ama ana mesaj ve miktarlar tamamen korunarak) yazılmıştır.//*
 Her soru için en az 2 test yazın.
 
 ## Soru 1: 1'den N'e Kadar Sayılar
@@ -58,19 +59,21 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
-
+|5000 |tahmin sayıdan küçüktür. | tahmin sayıdan küçüktür.|
+|6000 |tahmin sayıdan büyüktür. |tahmin sayıdan büyüktür. |
+|5476|Tebrikler.|Tebrikler.|  //*çünkü program kodlarını yazarken doğru sayıyı 5476 olarak belirlemiştim.//*
 ## Soru 9: Sayıların Ortalaması
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|4,5,6,4,5,6,4,5,6,5 |ort=5,ayrıca 10 pozitif sayı,0 negatif sayı , 0 tane sıfır olan sayı vardır. |ort=5,ayrıca 10 pozitif sayı,0 negatif sayı , 0 tane sıfır olan sayı vardır. |
+|5,6,7,8,9,-9,-8,-7,-6,-5 |ort=0 , ayrıca 5 pozitif,5 negatif , 0 tane sıfır olan sayı vardır. |5,6,7,8,9,-9,-8,-7,-6,-5 |ort=0 , ayrıca 5 pozitif,5 negatif , 0 tane sıfır olan sayı vardır. |
 
 ## Soru 10: Menü Tabanlı İşlem Programı
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|1 |kare alma işlemi yapılıyor. | kare alma işlemi yapılıyor.|
+|5 |çıkış yapılıyor |çıkış yapılıyor |
+
+
