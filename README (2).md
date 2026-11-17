@@ -1,5 +1,5 @@
 # Ödev: Java – Karar Yapıları ve Döngüler
-
+//*her ne kadar bazı kod bloklarını kendim ,aynı ödev için, daha önce yazdığım kod bloklarımdan kopyala-yapıştır yaptıysam ve bazı bilmediğim kavram ve mantıkları AI ile öğrenmişsem de bütün kodların yazımı ve mühendisliği bana aittir.
 > Bu bir ödev şablonudur. Ödevi **yapay zekâ kullanmadan**, kendi başınıza yapmanız beklenir.
 
 `if`, `else if`, `else`, `switch`, `for`, `while` ve `do-while` yapılarını kullanarak 10 problemi çözeceksiniz.
